@@ -1,0 +1,74 @@
+{
+    "user":[
+        {
+            "name": "Nasi Goreng Special",
+            "price": "Rp 25.000",
+            "Restaurant": "Cak doel",
+            "image_link": "https://i.postimg.cc/G3XSvYH2/nasgor.jpg",
+            "add": "Nasi Goreng dengan topping babat, udang, dan gyutan yang sedap"
+        },
+        {
+            "name": "Egg Burger Toast",
+            "price": "Rp 45.000",
+            "Restaurant": "Toastenation",
+            "image_link": "https://i.postimg.cc/YSJL5dn9/toast.jpg",            
+            "add": "Toast dengan komposisi burger dengan telur yang creamy"
+        },
+        {
+            "name": "Salad",
+            "price": "Rp 35.000",
+            "Restaurant": "Healthylisious",
+            "image_link": "https://i.postimg.cc/tgbLBbyC/salad.jpg",
+            "add": "Salad sayur dengan dresing honey serta Truffle Oil"
+        },
+        {
+            "name": "Sate Ayan",
+            "price": "Rp 22.000",
+            "Restaurant": "Cak Mul",
+            "image_link": "https://i.postimg.cc/dVwbBvJQ/sate.jpg",
+            "add": "Sate ayam dengan bumbu kacang yang kental dan manis khas Madura"
+        },
+        {
+            "name": "Mie Yamin",
+            "price": "Rp 20.000",
+            "Restaurant": "Bang Mail",
+            "image_link": "https://i.postimg.cc/1RgVm1hz/mie.jpg",
+            "add": "Mie ayam manis dengan cincangan daging yang halus"
+        },
+        {
+            "name": "Rendang",
+            "price": "Rp 52.000",
+            "Restaurant": "Padang Rancak",
+            "image_link": "https://i.postimg.cc/RZv0nj8K/rendang.jpg",
+            "add": "Rendang Daging dengan bumbu yang kuat"
+        },
+        {
+            "name": "Bakso urat",
+            "price": "Rp 40.000",
+            "Restaurant": "Mas Gendut",
+            "image_link": "https://i.postimg.cc/Fz1ymYbF/baso.jpg",
+            "add": "Bakso dengan tekstur urat yang sedikit memberikan sensasi saat dikunyah"
+        },
+        {
+            "name": "Topokki",
+            "price": "Rp 30.000",
+            "Restaurant": "Korean Style",
+            "image_link": "https://i.postimg.cc/7PT1B2LX/topoki.jpg",
+            "add": "Kue Beras dengan siraman kuah merah yang menggoyang lidah"
+        },
+        {
+            "name": "Ramen Iciraku",
+            "price": "Rp 150.000",
+            "Restaurant": "Iciraku",
+            "image_link": "https://i.postimg.cc/44byNf2s/ramen.jpg",
+            "add": "Ramen pembangkit semangat naruto"
+        },
+        {
+            "name": "Bebek peking",
+            "price": "Rp 185.000",
+            "Restaurant": "DuckDuckGo",
+            "image_link": "https://i.postimg.cc/dVTK3nQr/peking.jpg",
+            "add": "Bebek yang diasap dengan suhu yang terjaga dan teratur"
+        }
+    ]
+}
