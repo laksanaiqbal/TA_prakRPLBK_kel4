@@ -37,7 +37,7 @@ export default function ContextUse(){
             </Card>
             <Card style={{display:'inline-block', margin:'30px', background:'#F5F5F5', boxShadow:'0px 2px 2px', borderRadius:'5%'}}>
             <img style={{maxWidth:'200px', border:'solid #696969', borderRadius:'100%', margin:'2px', boxShadow:'1px 1px 1px'}} src='https://i.postimg.cc/zfBfX627/1.jpg'></img>
-                    <p style={{margin:'2px'}}>Syafiqul Mahdi</p>
+                    <p style={{margin:'2px'}}>Muhammad Syafiqul Mahdi</p>
                     <p style={{margin:'2px'}}>21120118110001</p>
             </Card>
         <div>
