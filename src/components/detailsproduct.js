@@ -22,6 +22,7 @@ class detailsproduct extends Component {
             <p style={{margin:'2px'}}>Ramen Ichiraku adalah set umum untuk berbagai adegan sepanjang seri, sering dikunjungi oleh Naruto</p>
                 <p style={{margin:'2px'}}>antara masa cerita. Sebuah episode anime didedikasikan untuk bar, di mana Ayame diculik dan Naruto</p>
                 <p style={{margin:'2px'}}>serta teman-temannya harus membuat resep ramen yang sempurna untuk tebusan. Menggunakan ninjutsu</p>
+                <p style={{margin:'2px'}}>untuk rasa dijamin enak. Jadi tunggu apa lagi untuk memesannya mumpung diskon lohh</p>
             <div style={{Align:'center', display: 'inlineblock'}}>
                 <a onClick={this.ubahlihatbenefit}>{this.state.lihatbenefit ? 'Sembunyikan' : 'Tampilkan'} DISKON</a>
                 {this.state.lihatbenefit ? <p>Buy One Get One</p> : ''}
